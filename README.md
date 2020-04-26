@@ -28,3 +28,5 @@ LDR (Light Sensor)
 MPU9250 (consists of ACCELEROMETER, GYROMETER, MAGNETOMETER)
 
 MDD10a (Dual H-bridge motor driver)
+
+******######VIEW THE EAGLE_file.brd USING EAGLECAD ONLY######******
